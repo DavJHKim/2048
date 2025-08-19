@@ -1,7 +1,6 @@
 # 2048
 
-IN ORDER TO RUN THIS CODE, COMPILE ALL .java FILES AND START THE PROGRAM FROM MAIN. PLEASE MAKE SURE YOU HAVE THE JDK
-COMPILER INSTALLED.
+In order to run this repo, compile all .java files and start the program from main. Please make sure you the JDK compiler installed.
 
 This directory contains a skeleton for CS61B Project.
 
@@ -14,7 +13,7 @@ expected to understand all of it. If you are curious, ask!
 
 ## CONTENTS
 
-README                 This file.  You need not turn this in.
+README.md              Information of the repository             
 
 game2048/
 
