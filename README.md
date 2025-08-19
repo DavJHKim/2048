@@ -2,10 +2,7 @@
 
 In order to run this repo, compile all .java files and start the program from main. Please make sure you the JDK compiler installed.
 
-This directory contains a skeleton for CS61B Project.
-
-Although some of what's in here might seem mysterious to you, and you are not
-expected to understand all of it. If you are curious, ask!
+This directory contains a skeleton for CS61B Project 0.
 
 ## Example GUI:
 
