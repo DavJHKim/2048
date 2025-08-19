@@ -8,7 +8,7 @@ This directory contains a skeleton for CS61B Project 0.
 
 ![2048 Example](images/example-2048.gif)
 
-## CONTENTS
+## Contents
 
 README.md              Information of the repository             
 
